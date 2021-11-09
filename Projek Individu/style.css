@@ -1,0 +1,15 @@
+.jumbotron {
+  background-color: #d3dcdf;
+  background-image: url(img/bg\ img-2.jpg);
+  background-size: cover;
+  padding: 160px 50px 145px 0;
+}
+#projects {
+  background-color: #d3dcdf;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section {
+  padding-top: 2rem;
+}
